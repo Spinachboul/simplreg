@@ -153,12 +153,6 @@ Contributions are welcome! If you'd like to contribute, please:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## Support
 
 If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://github.com/yourusername/simplreg) or contact the maintainer at [your-email@example.com](mailto\:your-email@example.com).
