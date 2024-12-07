@@ -11,6 +11,7 @@ setup(
     description="A simple machine learning package for forecasting and classification",
     long_description=open("readme.md").read(),
     long_description_content_type="text/markdown",
+    url="https://github.com/Spinachboul/simplreg",
     packages=find_packages(),
     install_requires = [
         "pandas",
