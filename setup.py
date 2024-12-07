@@ -5,7 +5,7 @@ with open("readme.md", "r") as fh:
 
 setup(
     name="simplreg",
-    version="0.1",
+    version="0.2",
     author="Mridul",
     author_email="jain.mridul.20@gmail.com",
     description="A simple machine learning package for forecasting and classification",
